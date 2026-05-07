@@ -67,11 +67,7 @@ I’m constantly studying, creating projects, and improving my skills step by st
 # 📊 GitHub Stats
 
 <div align="left">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaraMachado-dev&theme=tokyonight&show_icons=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraMachado-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=SaraMachado-dev&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
